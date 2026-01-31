@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ankit-tour-travels/static/css/main.e6c13ad2.css",
+    "main.js": "/ankit-tour-travels/static/js/main.9333aa80.js",
+    "static/js/453.d823e0dc.chunk.js": "/ankit-tour-travels/static/js/453.d823e0dc.chunk.js",
+    "index.html": "/ankit-tour-travels/index.html",
+    "main.e6c13ad2.css.map": "/ankit-tour-travels/static/css/main.e6c13ad2.css.map",
+    "main.9333aa80.js.map": "/ankit-tour-travels/static/js/main.9333aa80.js.map",
+    "453.d823e0dc.chunk.js.map": "/ankit-tour-travels/static/js/453.d823e0dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9333aa80.js"
+  ]
+}
